@@ -4,7 +4,7 @@
 	display:flex;
 	border: 2px solid green;
 	height:200px;
-	flex-flow:row wrap;
+	flex-wrap: wrap;
 	justify-content:space-between;
 }
 
